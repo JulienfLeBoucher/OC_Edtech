@@ -1,4 +1,4 @@
-My first data cleaning and analysis process project to prospect potential markets for a EdTech firm.
+My first data cleaning/analysis project to prospect potential markets for a EdTech firm.
 
 Educational data sources :
 
