@@ -1,0 +1,15 @@
+- Internet users (per 100 people)
+- Population of the official age for secondary education, both sexes (number)
+- Enrolment in secondary education, both sexes (number)
+- Enrolment in tertiary education, all programmes, both sexes (number)
+- GDP per capita (current US$)
+- Lower secondary completion rate, both sexes (%)
+- Government expenditure on education as % of GDP (%)
+- Graduates from tertiary education, both sexes (number)
+- UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Total
+- Labor force with advanced education (% of total)
+- Labor force with intermediate education (% of total)
+- Personal computers (per 100 people)
+- PIAAC: Adults by proficiency level in problem solving in technology-rich environments (%). Level 1 
+- PIAAC: Adults by proficiency level in problem solving in technology-rich environments (%). Level 2
+- PIAAC: Adults by proficiency level in problem solving in technology-rich environments (%). Level 3
