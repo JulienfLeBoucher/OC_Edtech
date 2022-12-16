@@ -1,0 +1,11 @@
+- Internet users (per 100 people)
+- Enrolment in secondary education, both sexes (number)
+- Enrolment in tertiary education, all programmes, both sexes (number)
+- GDP per capita (current US$)
+- Graduates from tertiary education, both sexes (number)
+- Labor force with advanced education (% of total)
+- Labor force with intermediate education (% of total)
+- Personal computers (per 100 people)
+- PIAAC: Adults by proficiency level in problem solving in technology-rich environments (%). Level 1 
+- PIAAC: Adults by proficiency level in problem solving in technology-rich environments (%). Level 2
+- PIAAC: Adults by proficiency level in problem solving in technology-rich environments (%). Level 3
